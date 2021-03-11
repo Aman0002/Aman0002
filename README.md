@@ -1,4 +1,4 @@
-### Hola, I'm Aman Kumar 👋
+### Hola, I'm Aman Kumar 
 
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
